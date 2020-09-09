@@ -14,6 +14,9 @@ console.log(string);
 if (string.includes('a','e','i','o','u')){
 console.log("has vowels");
 // num = string.
+// for each(a,e,i,o,u){
+//   num++;
+// } 
 // for every vowel in the string, add onw to num and then print
 console.log(num);
 
